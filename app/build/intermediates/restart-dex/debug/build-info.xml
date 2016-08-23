@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="53754945975803"
+    token="-87620547158236006" >
+
+    <task
+        name="javac"
+        duration="520" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="67" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="D:\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+
+    <build timestamp="53115289853355" >
+        <artifact
+            location="D:\PhotoGallery\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="53754945975803" >
+        <artifact
+            location="D:\PhotoGallery\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
