@@ -6,7 +6,7 @@ _Flickr client._
 <img src="https://github.com/serzhanto/PhotoGallery/blob/master/screenshot12.png" alt="Pull" />
 <img src="https://github.com/serzhanto/PhotoGallery/blob/master/screenshot13.png" alt="Pull" />
 
-Viewing recent photos, search, watching nearby uploads on the map, new pictures notification.
+_Viewing recent photos, search, watching nearby uploads on the map, new pictures notification._
 
 **Solutions:** Using RecyclerView and Picasso for the caching and re- using loaded pictures. Pre- loading of the photos, for more responsive interface. 
 
