@@ -1,14 +1,15 @@
-# Crime Intent
-_Список дел для Android. Универсальное приложение для смартфонов и планшетов_
+# Photo Gallery
+_Клиент для Flickr._
 
-<img src="https://github.com/serzhanto/CrimeIntent/blob/master/screenshot5.png" alt="Pull" />
-<img src="https://github.com/serzhanto/CrimeIntent/blob/master/screenshot6.png" alt="Pull" />
-<img src="https://github.com/serzhanto/CrimeIntent/blob/master/screenshot7.png" alt="Pull" />
-<img src="https://github.com/serzhanto/CrimeIntent/blob/master/screenshot8.png" alt="Pull" />
-<img src="https://github.com/serzhanto/CrimeIntent/blob/master/screenshot9.png" alt="Pull" />
+<img src="https://github.com/serzhanto/PhotoGallery/blob/master/screenshot10.png" alt="Pull" />
+<img src="https://github.com/serzhanto/PhotoGallery/blob/master/screenshot11.png" alt="Pull" />
+<img src="https://github.com/serzhanto/PhotoGallery/blob/master/screenshot12.png" alt="Pull" />
+<img src="https://github.com/serzhanto/PhotoGallery/blob/master/screenshot13.png" alt="Pull" />
 
-**Функциональность:** Создание списка преступлений, с возможностью выбора даты совершения из календаря, подозреваемых из записной книги и возможностью сделать фотографию места преступления, а так же делать рассылку, используя внешние приложения.
+**Функциональность:** Просмотр ленты последних загрузок Flickr, поиск по фотографиям, просмотр ближайших загрузок на карте.
 
-**Использовались:** Fragments, RecyclerView, SQLLite.
+**Технологии** Использование RecyclerView и Picasso для кеширования. Предварительная подгрузка фотографий, для более отзывчивого интерфейса. 
 
-[Скачать APK] (https://github.com/serzhanto/CrimeIntent/raw/master/app/build/outputs/apk/app-debug.apk)
+**Использовались:** Picasso, Gson, Google Maps API.
+
+[Скачать APK] (https://github.com/serzhanto/PhotoGallery/raw/master/app/build/outputs/apk/app-debug.apk)
